@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Hyperspectral&#34; | Jan Gieseler</title>
+    <link>https://jgieseler.github.io/tag/hyperspectral/</link>
+      <atom:link href="https://jgieseler.github.io/tag/hyperspectral/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Hyperspectral&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Hyperspectral&#34;</title>
+      <link>https://jgieseler.github.io/tag/hyperspectral/</link>
+    </image>
+    
+    <item>
+      <title>Aalto-1, multi-payload CubeSat: Design, integration and launch</title>
+      <link>https://jgieseler.github.io/publication/praks-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/praks-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Jan Gieseler</title>
+    <link>https://jgieseler.github.io/publication-type/2/</link>
+      <atom:link href="https://jgieseler.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://jgieseler.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Aalto-1, multi-payload CubeSat: Design, integration and launch</title>
+      <link>https://jgieseler.github.io/publication/praks-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/praks-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aalto-1, multi-payload CubeSat: In-orbit results and lessons learned</title>
+      <link>https://jgieseler.github.io/publication/mughal-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/mughal-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibration of RADMON radiation monitor onboard Aalto-1 CubeSat</title>
+      <link>https://jgieseler.github.io/publication/oleynik-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/oleynik-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiation monitor RADMON aboard Aalto-1 CubeSat: First results</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FORESAIL-1 CubeSat Mission to Measure Radiation Belt Losses and Demonstrate Deorbiting</title>
+      <link>https://jgieseler.github.io/publication/palmroth-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/palmroth-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Empirical Modification of the Force Field Approach to Describe the Modulation of Galactic Cosmic Rays Close to Earth in a Broad Range of Rigidities</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial gradients of GCR protons in the inner heliosphere derived from Ulysses COSPIN/KET and PAMELA measurements</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galactic cosmic ray quiet time spectra from 300 MeV up to above 1 GeV measured with SOHO/EPHIN</title>
+      <link>https://jgieseler.github.io/publication/kuehl-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/kuehl-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mini neutron monitor measurements at the Neumayer III station and on the German research vessel Polarstern</title>
+      <link>https://jgieseler.github.io/publication/heber-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/heber-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inner heliosphere spatial gradients of gcr protons in the low gev range</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Analysis of Recurrent Jovian Electron Increases and Galactic Cosmic Ray Decreases</title>
+      <link>https://jgieseler.github.io/publication/kuehl-2013-b/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/kuehl-2013-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latitudinal and radial gradients of galactic cosmic ray protons in the inner heliosphere - PAMELA and Ulysses observations</title>
+      <link>https://jgieseler.github.io/publication/de-simone-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/de-simone-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation of galactic cosmic ray protons and electrons during an unusual solar minimum</title>
+      <link>https://jgieseler.github.io/publication/heber-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/heber-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latitudinal gradients of galactic cosmic rays during the 2007 solar minimum</title>
+      <link>https://jgieseler.github.io/publication/heber-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/heber-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The radial gradient of galactic cosmic rays: Ulysses KET and ACE CRIS Measurements</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
