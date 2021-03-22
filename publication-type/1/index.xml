@@ -5,7 +5,7 @@
     <link>https://jgieseler.github.io/publication-type/1/</link>
       <atom:link href="https://jgieseler.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,22 +13,43 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://jgieseler.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://jgieseler.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Galactic cosmic ray quiet time spectra from 300 MeV up to above 1 GeV measured with SOHO/EPHIN</title>
+      <link>https://jgieseler.github.io/publication/kuehl-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/kuehl-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mini neutron monitor measurements at the Neumayer III station and on the German research vessel Polarstern</title>
+      <link>https://jgieseler.github.io/publication/heber-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/heber-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inner heliosphere spatial gradients of GCR protons in the low GeV range</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Analysis of Recurrent Jovian Electron Increases and Galactic Cosmic Ray Decreases</title>
+      <link>https://jgieseler.github.io/publication/kuehl-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/kuehl-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The radial gradient of galactic cosmic rays: Ulysses KET and ACE CRIS Measurements</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2007/</guid>
+      <description></description>
     </item>
     
   </channel>
