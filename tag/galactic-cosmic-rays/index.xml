@@ -1,22 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;galactic cosmic rays&#34; | Jan Gieseler</title>
+    <title>Galactic Cosmic Rays | Jan Gieseler</title>
     <link>https://jgieseler.github.io/tag/galactic-cosmic-rays/</link>
       <atom:link href="https://jgieseler.github.io/tag/galactic-cosmic-rays/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;galactic cosmic rays&#34;</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <description>Galactic Cosmic Rays</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_2.png</url>
-      <title>&#34;galactic cosmic rays&#34;</title>
+      <title>Galactic Cosmic Rays</title>
       <link>https://jgieseler.github.io/tag/galactic-cosmic-rays/</link>
     </image>
+    
+    <item>
+      <title>An Empirical Modification of the Force Field Approach to Describe the Modulation of Galactic Cosmic Rays Close to Earth in a Broad Range of Rigidities</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial gradients of GCR protons in the inner heliosphere derived from Ulysses COSPIN/KET and PAMELA measurements</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galactic cosmic ray quiet time spectra from 300 MeV up to above 1 GeV measured with SOHO/EPHIN</title>
+      <link>https://jgieseler.github.io/publication/kuehl-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/kuehl-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mini neutron monitor measurements at the Neumayer III station and on the German research vessel Polarstern</title>
+      <link>https://jgieseler.github.io/publication/heber-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/heber-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inner heliosphere spatial gradients of GCR protons in the low GeV range</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2013/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Simultaneous Analysis of Recurrent Jovian Electron Increases and Galactic Cosmic Ray Decreases</title>
       <link>https://jgieseler.github.io/publication/kuehl-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://jgieseler.github.io/publication/kuehl-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latitudinal and radial gradients of galactic cosmic ray protons in the inner heliosphere - PAMELA and Ulysses observations</title>
+      <link>https://jgieseler.github.io/publication/de-simone-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/de-simone-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation of galactic cosmic ray protons and electrons during an unusual solar minimum</title>
+      <link>https://jgieseler.github.io/publication/heber-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/heber-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latitudinal gradients of galactic cosmic rays during the 2007 solar minimum</title>
+      <link>https://jgieseler.github.io/publication/heber-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/heber-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The radial gradient of galactic cosmic rays: Ulysses KET and ACE CRIS Measurements</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2007/</guid>
       <description></description>
     </item>
     

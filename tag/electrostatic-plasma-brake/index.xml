@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Electrostatic Plasma Brake&#34; | Jan Gieseler</title>
+    <title>Electrostatic Plasma Brake | Jan Gieseler</title>
     <link>https://jgieseler.github.io/tag/electrostatic-plasma-brake/</link>
       <atom:link href="https://jgieseler.github.io/tag/electrostatic-plasma-brake/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Electrostatic Plasma Brake&#34;</description>
+    <description>Electrostatic Plasma Brake</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_2.png</url>
-      <title>&#34;Electrostatic Plasma Brake&#34;</title>
+      <title>Electrostatic Plasma Brake</title>
       <link>https://jgieseler.github.io/tag/electrostatic-plasma-brake/</link>
     </image>
     
@@ -25,6 +25,14 @@
       <link>https://jgieseler.github.io/publication/mughal-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://jgieseler.github.io/publication/mughal-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FORESAIL-1 CubeSat Mission to Measure Radiation Belt Losses and Demonstrate Deorbiting</title>
+      <link>https://jgieseler.github.io/publication/palmroth-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/palmroth-2019/</guid>
       <description></description>
     </item>
     

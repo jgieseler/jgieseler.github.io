@@ -29,6 +29,22 @@
     </item>
     
     <item>
+      <title>Calibration of RADMON radiation monitor onboard Aalto-1 CubeSat</title>
+      <link>https://jgieseler.github.io/publication/oleynik-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/oleynik-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiation monitor RADMON aboard Aalto-1 CubeSat: First results</title>
+      <link>https://jgieseler.github.io/publication/gieseler-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/gieseler-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FORESAIL</title>
       <link>https://jgieseler.github.io/project/foresail/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -48,6 +64,14 @@
       <guid>https://jgieseler.github.io/project/radmon/</guid>
       <description>&lt;p&gt;You can find the public data set of RADMON measurements of energetic particles (electrons and protons) onboard CubeSat Aalto-1 in Low Eart Orbit (LEO) in 2017-2018 &lt;a href=&#34;https://zenodo.org/record/3541628&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here at Zenodo&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>FORESAIL-1 CubeSat Mission to Measure Radiation Belt Losses and Demonstrate Deorbiting</title>
+      <link>https://jgieseler.github.io/publication/palmroth-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/palmroth-2019/</guid>
+      <description></description>
     </item>
     
   </channel>

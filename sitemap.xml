@@ -11,7 +11,22 @@
     <loc>https://jgieseler.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jgieseler.github.io/publication-type/2/</loc>
+    <lastmod>2021-03-22T20:37:18+02:00</lastmod>
+  </url><url>
     <loc>https://jgieseler.github.io/tag/aalto-spectral-imager/</loc>
+    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
+  </url><url>
+    <loc>https://jgieseler.github.io/tag/aalto-1/</loc>
+    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
+  </url><url>
+    <loc>https://jgieseler.github.io/publication/praks-2021/</loc>
+    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
+  </url><url>
+    <loc>https://jgieseler.github.io/publication/mughal-2021/</loc>
+    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
+  </url><url>
+    <loc>https://jgieseler.github.io/tag/cubesat/</loc>
     <lastmod>2021-03-22T20:37:16+02:00</lastmod>
   </url><url>
     <loc>https://jgieseler.github.io/tag/electrostatic-plasma-brake/</loc>
@@ -26,56 +41,17 @@
     <loc>https://jgieseler.github.io/tag/lessons-learned/</loc>
     <lastmod>2021-03-22T20:37:16+02:00</lastmod>
   </url><url>
-    <loc>https://jgieseler.github.io/tag/radiation-monitor/</loc>
-    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/tag/radiation/</loc>
-    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/publication-type/2/</loc>
-    <lastmod>2021-03-22T20:37:18+02:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/tag/aalto-1/</loc>
-    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/publication/praks-2021/</loc>
-    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/publication/mughal-2021/</loc>
-    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/tag/cubesat/</loc>
-    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
-  </url><url>
     <loc>https://jgieseler.github.io/publication_types/</loc>
     <lastmod>2021-03-22T20:37:18+02:00</lastmod>
   </url><url>
     <loc>https://jgieseler.github.io/publication/</loc>
     <lastmod>2021-03-22T20:37:18+02:00</lastmod>
   </url><url>
+    <loc>https://jgieseler.github.io/tag/radiation-monitor-radmon/</loc>
+    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
+  </url><url>
     <loc>https://jgieseler.github.io/tags/</loc>
-    <lastmod>2021-03-22T20:37:17+02:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-22T20:37:18+02:00</lastmod>
   </url><url>
     <loc>https://jgieseler.github.io/publication/oleynik-2020/</loc>
     <lastmod>2021-03-22T20:37:16+02:00</lastmod>
@@ -84,7 +60,7 @@
     <lastmod>2021-03-22T20:37:16+02:00</lastmod>
   </url><url>
     <loc>https://jgieseler.github.io/tag/foresail/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
   </url><url>
     <loc>https://jgieseler.github.io/project/foresail/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
@@ -93,9 +69,6 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jgieseler.github.io/project/radmon/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/tag/radmon/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jgieseler.github.io/slides/</loc>
@@ -107,20 +80,23 @@
     <loc>https://jgieseler.github.io/publication/palmroth-2019/</loc>
     <lastmod>2021-03-22T20:37:16+02:00</lastmod>
   </url><url>
+    <loc>https://jgieseler.github.io/tag/pate/</loc>
+    <lastmod>2021-03-22T20:37:16+02:00</lastmod>
+  </url><url>
     <loc>https://jgieseler.github.io/publication/gieseler-2017/</loc>
     <lastmod>2021-03-22T20:37:17+02:00</lastmod>
   </url><url>
-    <loc>https://jgieseler.github.io/tag/cosmic-rays/</loc>
+    <loc>https://jgieseler.github.io/tag/force-field/</loc>
     <lastmod>2021-03-22T20:37:17+02:00</lastmod>
   </url><url>
-    <loc>https://jgieseler.github.io/tag/interplanetary-medium/</loc>
-    <lastmod>2021-03-22T20:37:17+02:00</lastmod>
+    <loc>https://jgieseler.github.io/tag/galactic-cosmic-rays/</loc>
+    <lastmod>2021-03-22T20:37:18+02:00</lastmod>
   </url><url>
-    <loc>https://jgieseler.github.io/tag/sun-activity/</loc>
-    <lastmod>2021-03-22T20:37:17+02:00</lastmod>
+    <loc>https://jgieseler.github.io/tag/solar-modulation/</loc>
+    <lastmod>2021-03-22T20:37:18+02:00</lastmod>
   </url><url>
-    <loc>https://jgieseler.github.io/tag/sun-heliosphere/</loc>
-    <lastmod>2021-03-22T20:37:17+02:00</lastmod>
+    <loc>https://jgieseler.github.io/tag/gradients/</loc>
+    <lastmod>2021-03-22T20:37:18+02:00</lastmod>
   </url><url>
     <loc>https://jgieseler.github.io/publication/gieseler-2016/</loc>
     <lastmod>2021-03-22T20:37:17+02:00</lastmod>
@@ -134,16 +110,13 @@
     <loc>https://jgieseler.github.io/publication/heber-2015/</loc>
     <lastmod>2021-03-22T20:37:17+02:00</lastmod>
   </url><url>
-    <loc>https://jgieseler.github.io/tag/corotating-interaction-regions/</loc>
-    <lastmod>2021-03-22T20:37:17+02:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/tag/galactic-cosmic-rays/</loc>
-    <lastmod>2021-03-22T20:37:17+02:00</lastmod>
-  </url><url>
-    <loc>https://jgieseler.github.io/tag/jovian-electrons/</loc>
+    <loc>https://jgieseler.github.io/tag/cir/</loc>
     <lastmod>2021-03-22T20:37:17+02:00</lastmod>
   </url><url>
     <loc>https://jgieseler.github.io/publication/gieseler-2013/</loc>
+    <lastmod>2021-03-22T20:37:17+02:00</lastmod>
+  </url><url>
+    <loc>https://jgieseler.github.io/tag/jovian-electrons/</loc>
     <lastmod>2021-03-22T20:37:17+02:00</lastmod>
   </url><url>
     <loc>https://jgieseler.github.io/publication/kuehl-2013/</loc>
@@ -162,5 +135,9 @@
     <lastmod>2021-03-22T20:37:18+02:00</lastmod>
   </url><url>
     <loc>https://jgieseler.github.io/admin/</loc>
+  </url><url>
+    <loc>https://jgieseler.github.io/categories/</loc>
+  </url><url>
+    <loc>https://jgieseler.github.io/post/</loc>
   </url>
 </urlset>
