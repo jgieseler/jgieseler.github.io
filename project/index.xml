@@ -5,12 +5,23 @@
     <link>https://jgieseler.github.io/project/</link>
       <atom:link href="https://jgieseler.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://jgieseler.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Solar-MACH</title>
+      <link>https://jgieseler.github.io/project/solar-mach/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/project/solar-mach/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://solar-mach.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Solar MAgnetic Connection Haus&lt;/em&gt; (Solar-MACH) tool&lt;/a&gt; is a multi-spacecraft longitudinal configuration plotter. It was originally developed at the University of Kiel, Germany, and further discussed within the &lt;a href=&#34;https://www.cosmos.esa.int/web/esdc/archives-user-groups/heliophysics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESA Heliophysics Archives USer (HAUS)&lt;/a&gt; group. It is now opened to everyone (&lt;a href=&#34;https://github.com/esdc-esac-esa-int/Solar-MACH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;original code&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;This version has been &lt;a href=&#34;https://github.com/jgieseler/Solar-MACH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;forked and modified&lt;/a&gt; by me in order to run as a web-app using &lt;a href=&#34;https://streamlit.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Streamlit&lt;/a&gt; amd with slightly extended functionality (e.g., provide reference longitude in Stonyhurst coordinates, download bodies coordinates list).&lt;/p&gt;
+&lt;p&gt;Powered by: &lt;a href=&#34;https://matplotlib.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://matplotlib.org/stable/_static/logo2_compressed.svg&#34; height=&#34;25&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://streamlit.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg&#34; height=&#34;30&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://sunpy.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/sunpy/sunpy-logo/master/generated/sunpy_logo_landscape.svg&#34; height=&#34;30&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>SERPENTINE</title>
