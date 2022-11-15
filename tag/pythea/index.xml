@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyThea | Jan Gieseler</title>
+    <link>https://jgieseler.github.io/tag/pythea/</link>
+      <atom:link href="https://jgieseler.github.io/tag/pythea/index.xml" rel="self" type="application/rss+xml" />
+    <description>PyThea</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_2.png</url>
+      <title>PyThea</title>
+      <link>https://jgieseler.github.io/tag/pythea/</link>
+    </image>
+    
+    <item>
+      <title>PyThea: An open-source software package to perform 3D reconstruction of coronal mass ejections and shock waves</title>
+      <link>https://jgieseler.github.io/publication/kouloumvakos-2022a/</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/kouloumvakos-2022a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

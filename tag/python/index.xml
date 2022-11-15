@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coronal Mass Ejection | Jan Gieseler</title>
-    <link>https://jgieseler.github.io/tag/coronal-mass-ejection/</link>
-      <atom:link href="https://jgieseler.github.io/tag/coronal-mass-ejection/index.xml" rel="self" type="application/rss+xml" />
-    <description>Coronal Mass Ejection</description>
+    <title>Python | Jan Gieseler</title>
+    <link>https://jgieseler.github.io/tag/python/</link>
+      <atom:link href="https://jgieseler.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_2.png</url>
-      <title>Coronal Mass Ejection</title>
-      <link>https://jgieseler.github.io/tag/coronal-mass-ejection/</link>
+      <title>Python</title>
+      <link>https://jgieseler.github.io/tag/python/</link>
     </image>
     
     <item>
@@ -25,22 +25,6 @@
       <link>https://jgieseler.github.io/publication/kouloumvakos-2022a/</link>
       <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://jgieseler.github.io/publication/kouloumvakos-2022a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The first ground-level enhancement of solar cycle 25 on 28 October 2021</title>
-      <link>https://jgieseler.github.io/publication/papaioannou-2022/</link>
-      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://jgieseler.github.io/publication/papaioannou-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-spacecraft observations of the structure of the sheath of an interplanetary coronal mass ejection and related energetic ion enhancement</title>
-      <link>https://jgieseler.github.io/publication/kilpua-2021/</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://jgieseler.github.io/publication/kilpua-2021/</guid>
       <description></description>
     </item>
     
