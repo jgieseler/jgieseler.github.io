@@ -5,12 +5,20 @@
     <link>https://jgieseler.github.io/tag/coronal-mass-ejection/</link>
       <atom:link href="https://jgieseler.github.io/tag/coronal-mass-ejection/index.xml" rel="self" type="application/rss+xml" />
     <description>Coronal Mass Ejection</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_2.png</url>
       <title>Coronal Mass Ejection</title>
       <link>https://jgieseler.github.io/tag/coronal-mass-ejection/</link>
     </image>
+    
+    <item>
+      <title>Single-spacecraft techniques for shock parameters estimation: A systematic approach</title>
+      <link>https://jgieseler.github.io/publication/trotta-2022/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/trotta-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The effect of shock wave properties on the release timings of solar energetic particles</title>
