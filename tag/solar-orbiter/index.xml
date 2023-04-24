@@ -5,12 +5,20 @@
     <link>https://jgieseler.github.io/tag/solar-orbiter/</link>
       <atom:link href="https://jgieseler.github.io/tag/solar-orbiter/index.xml" rel="self" type="application/rss+xml" />
     <description>Solar Orbiter</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_3.png</url>
       <title>Solar Orbiter</title>
       <link>https://jgieseler.github.io/tag/solar-orbiter/</link>
     </image>
+    
+    <item>
+      <title>The 17 April 2021 widespread solar energetic particle event</title>
+      <link>https://jgieseler.github.io/publication/apr17/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/apr17/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The first ground-level enhancement of solar cycle 25 on 28 October 2021</title>
