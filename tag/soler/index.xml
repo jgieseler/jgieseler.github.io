@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SOLER | Jan Gieseler</title>
+    <link>https://jgieseler.github.io/tag/soler/</link>
+      <atom:link href="https://jgieseler.github.io/tag/soler/index.xml" rel="self" type="application/rss+xml" />
+    <description>SOLER</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_3.png</url>
+      <title>SOLER</title>
+      <link>https://jgieseler.github.io/tag/soler/</link>
+    </image>
+    
+    <item>
+      <title>SOLER</title>
+      <link>https://jgieseler.github.io/project/soler/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/project/soler/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
