@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physical Sciences | Jan Gieseler</title>
+    <link>https://jgieseler.github.io/tag/physical-sciences/</link>
+      <atom:link href="https://jgieseler.github.io/tag/physical-sciences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Physical Sciences</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_3.png</url>
+      <title>Physical Sciences</title>
+      <link>https://jgieseler.github.io/tag/physical-sciences/</link>
+    </image>
+    
+    <item>
+      <title>BepiColombo cruise science: overview of the mission contribution to heliophysics</title>
+      <link>https://jgieseler.github.io/publication/2025-eps-77-114-s/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/2025-eps-77-114-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The High-Energy Protons of the Ground Level Enhancement (GLE74) Event on 11 May 2024</title>
+      <link>https://jgieseler.github.io/publication/2025-so-ph-300-73-p/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/2025-so-ph-300-73-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earth and Planetary Astrophysics | Jan Gieseler</title>
+    <link>https://jgieseler.github.io/tag/earth-and-planetary-astrophysics/</link>
+      <atom:link href="https://jgieseler.github.io/tag/earth-and-planetary-astrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Earth and Planetary Astrophysics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_3.png</url>
+      <title>Earth and Planetary Astrophysics</title>
+      <link>https://jgieseler.github.io/tag/earth-and-planetary-astrophysics/</link>
+    </image>
+    
+    <item>
+      <title>Comparing observations of closely located JUICE and STEREO-A spacecraft during the widespread 13 May 2024 solar energetic particle event</title>
+      <link>https://jgieseler.github.io/publication/2025-aa-701-a-13-r/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/2025-aa-701-a-13-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The High-Energy Protons of the Ground Level Enhancement (GLE74) Event on 11 May 2024</title>
+      <link>https://jgieseler.github.io/publication/2025-so-ph-300-73-p/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/2025-so-ph-300-73-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

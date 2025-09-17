@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics - Space Physics | Jan Gieseler</title>
+    <link>https://jgieseler.github.io/tag/physics-space-physics/</link>
+      <atom:link href="https://jgieseler.github.io/tag/physics-space-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Physics - Space Physics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_3.png</url>
+      <title>Physics - Space Physics</title>
+      <link>https://jgieseler.github.io/tag/physics-space-physics/</link>
+    </image>
+    
+    <item>
+      <title>An Overview of Solar Orbiter Observations of Interplanetary Shocks in Solar Cycle 25</title>
+      <link>https://jgieseler.github.io/publication/2025-ap-js-277-2-t/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/2025-ap-js-277-2-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The reason for the widespread energetic storm particle event of 13 March 2023</title>
+      <link>https://jgieseler.github.io/publication/2025-aa-695-a-127-d/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/2025-aa-695-a-127-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

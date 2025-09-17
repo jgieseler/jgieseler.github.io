@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>methods: observational | Jan Gieseler</title>
+    <link>https://jgieseler.github.io/tag/methods-observational/</link>
+      <atom:link href="https://jgieseler.github.io/tag/methods-observational/index.xml" rel="self" type="application/rss+xml" />
+    <description>methods: observational</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_3.png</url>
+      <title>methods: observational</title>
+      <link>https://jgieseler.github.io/tag/methods-observational/</link>
+    </image>
+    
+    <item>
+      <title>A new method for determining the onset times of solar energetic particles and their uncertainties: Poisson-CUSUM bootstrap hybrid method</title>
+      <link>https://jgieseler.github.io/publication/2025-aa-694-a-221-p/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/2025-aa-694-a-221-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
