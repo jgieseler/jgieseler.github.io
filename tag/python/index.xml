@@ -5,12 +5,20 @@
     <link>https://jgieseler.github.io/tag/python/</link>
       <atom:link href="https://jgieseler.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_3.png</url>
       <title>Python</title>
       <link>https://jgieseler.github.io/tag/python/</link>
     </image>
+    
+    <item>
+      <title>A new method for determining the onset times of solar energetic particles and their uncertainties: Poisson-CUSUM bootstrap hybrid method</title>
+      <link>https://jgieseler.github.io/publication/2025-aa-694-a-221-p/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/2025-aa-694-a-221-p/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The solar cycle 25 multi-spacecraft solar energetic particle event catalog of the SERPENTINE project</title>

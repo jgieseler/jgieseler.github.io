@@ -5,12 +5,20 @@
     <link>https://jgieseler.github.io/tag/physical-sciences/</link>
       <atom:link href="https://jgieseler.github.io/tag/physical-sciences/index.xml" rel="self" type="application/rss+xml" />
     <description>Physical Sciences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jgieseler.github.io/media/icon_hu5c7488c98d09cd66fe6d6ab013abf92d_36098_512x512_fill_lanczos_center_3.png</url>
       <title>Physical Sciences</title>
       <link>https://jgieseler.github.io/tag/physical-sciences/</link>
     </image>
+    
+    <item>
+      <title>Calibration of the BepiColombo environmental radiation monitor (BERM) and cross-calibration with solar intensity X-ray and particle spectrometer (SIXS) during solar energetic particle events</title>
+      <link>https://jgieseler.github.io/publication/2026-eps-78-157-g/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://jgieseler.github.io/publication/2026-eps-78-157-g/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BepiColombo cruise science: overview of the mission contribution to heliophysics</title>
